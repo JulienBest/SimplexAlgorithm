@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/PrimalSimplexAlgorithm.cpp
+iostream
+-
+vector
+-
+SimplexTableau.h
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/SimplexTableau.h
+PrimalSimplexAlgorithm.h
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/PrimalSimplexAlgorithm.h
+
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/PrimalSimplexAlgorithm.h
+iostream
+-
+vector
+-
+SimplexTableau.h
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/SimplexTableau.h
+
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/SimplexTableau.h
+vector
+-
+
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/main.cpp
+iostream
+-
+vector
+-
+SimplexTableau.h
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/SimplexTableau.h
+PrimalSimplexAlgorithm.h
+C:/Users/User/Desktop/Dateien & Progamme/Dateien/Informatik/CLion Projects C++/Simplex/PrimalSimplexAlgorithm.h
+
